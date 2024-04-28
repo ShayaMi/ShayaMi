@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shayan</h1>
-<h3 align="center">A dedicated Medical Engineering master student</h3>
+<h3 align="center">Dedicated to the convergence of healthcare and cutting-edge technology, I am a driven Master's student at FAU specializing in Medical Engineering</h3>
 
-- 🔭 I’m currently working in [Machine Learning and Data Analytics (MaD) lab](https://www.mad.tf.fau.de/)
+- 🔭 I’m currently working at [Siemens Healthineers](https://www.siemens-healthineers.com/) as a working student
 
-- 📫 How to reach me **shayan.mirshahi@fau.de**
+- 📫 How to reach me **shayan.mirshahi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
